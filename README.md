@@ -1,8 +1,6 @@
 # mi_for_climate
 This is the repository of **Mutual Information** estimators for climate data processing. 
 
-See the paper *Evaluation of Euro-CORDEX Temperature and Precipitation Simulations over Turkey* for its usage.
-
 **Input**: random variable X with size n, random variable Y with size n.
 
 **Output**: mutual information I(X;Y).
